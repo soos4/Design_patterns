@@ -1,0 +1,11 @@
+/Users/soosrobert/Projects/Bridge/Bridge/bin/Debug/netcoreapp3.0/Bridge
+/Users/soosrobert/Projects/Bridge/Bridge/bin/Debug/netcoreapp3.0/Bridge.deps.json
+/Users/soosrobert/Projects/Bridge/Bridge/bin/Debug/netcoreapp3.0/Bridge.runtimeconfig.json
+/Users/soosrobert/Projects/Bridge/Bridge/bin/Debug/netcoreapp3.0/Bridge.runtimeconfig.dev.json
+/Users/soosrobert/Projects/Bridge/Bridge/bin/Debug/netcoreapp3.0/Bridge.dll
+/Users/soosrobert/Projects/Bridge/Bridge/bin/Debug/netcoreapp3.0/Bridge.pdb
+/Users/soosrobert/Projects/Bridge/Bridge/obj/Debug/netcoreapp3.0/Bridge.csprojAssemblyReference.cache
+/Users/soosrobert/Projects/Bridge/Bridge/obj/Debug/netcoreapp3.0/Bridge.AssemblyInfoInputs.cache
+/Users/soosrobert/Projects/Bridge/Bridge/obj/Debug/netcoreapp3.0/Bridge.AssemblyInfo.cs
+/Users/soosrobert/Projects/Bridge/Bridge/obj/Debug/netcoreapp3.0/Bridge.dll
+/Users/soosrobert/Projects/Bridge/Bridge/obj/Debug/netcoreapp3.0/Bridge.pdb

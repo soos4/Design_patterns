@@ -1,0 +1,11 @@
+/Users/soosrobert/Projects/Singleton/Singleton/bin/Debug/netcoreapp3.0/Singleton
+/Users/soosrobert/Projects/Singleton/Singleton/bin/Debug/netcoreapp3.0/Singleton.deps.json
+/Users/soosrobert/Projects/Singleton/Singleton/bin/Debug/netcoreapp3.0/Singleton.runtimeconfig.json
+/Users/soosrobert/Projects/Singleton/Singleton/bin/Debug/netcoreapp3.0/Singleton.runtimeconfig.dev.json
+/Users/soosrobert/Projects/Singleton/Singleton/bin/Debug/netcoreapp3.0/Singleton.dll
+/Users/soosrobert/Projects/Singleton/Singleton/bin/Debug/netcoreapp3.0/Singleton.pdb
+/Users/soosrobert/Projects/Singleton/Singleton/obj/Debug/netcoreapp3.0/Singleton.csprojAssemblyReference.cache
+/Users/soosrobert/Projects/Singleton/Singleton/obj/Debug/netcoreapp3.0/Singleton.AssemblyInfoInputs.cache
+/Users/soosrobert/Projects/Singleton/Singleton/obj/Debug/netcoreapp3.0/Singleton.AssemblyInfo.cs
+/Users/soosrobert/Projects/Singleton/Singleton/obj/Debug/netcoreapp3.0/Singleton.dll
+/Users/soosrobert/Projects/Singleton/Singleton/obj/Debug/netcoreapp3.0/Singleton.pdb

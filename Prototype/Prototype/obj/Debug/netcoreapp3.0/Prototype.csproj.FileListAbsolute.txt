@@ -1,0 +1,11 @@
+/Users/soosrobert/Projects/Prototype/Prototype/bin/Debug/netcoreapp3.0/Prototype
+/Users/soosrobert/Projects/Prototype/Prototype/bin/Debug/netcoreapp3.0/Prototype.deps.json
+/Users/soosrobert/Projects/Prototype/Prototype/bin/Debug/netcoreapp3.0/Prototype.runtimeconfig.json
+/Users/soosrobert/Projects/Prototype/Prototype/bin/Debug/netcoreapp3.0/Prototype.runtimeconfig.dev.json
+/Users/soosrobert/Projects/Prototype/Prototype/bin/Debug/netcoreapp3.0/Prototype.dll
+/Users/soosrobert/Projects/Prototype/Prototype/bin/Debug/netcoreapp3.0/Prototype.pdb
+/Users/soosrobert/Projects/Prototype/Prototype/obj/Debug/netcoreapp3.0/Prototype.csprojAssemblyReference.cache
+/Users/soosrobert/Projects/Prototype/Prototype/obj/Debug/netcoreapp3.0/Prototype.AssemblyInfoInputs.cache
+/Users/soosrobert/Projects/Prototype/Prototype/obj/Debug/netcoreapp3.0/Prototype.AssemblyInfo.cs
+/Users/soosrobert/Projects/Prototype/Prototype/obj/Debug/netcoreapp3.0/Prototype.dll
+/Users/soosrobert/Projects/Prototype/Prototype/obj/Debug/netcoreapp3.0/Prototype.pdb

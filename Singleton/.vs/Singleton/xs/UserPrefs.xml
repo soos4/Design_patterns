@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{3B1F0132-51D0-4B0A-BFF9-A03EE6CBDC28}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Singleton/Database.cs">
+    <Files>
+      <File FileName="Singleton/Program.cs" Line="24" Column="14" />
+      <File FileName="Singleton/Database.cs" Line="33" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Singleton" expanded="True">
+            <Node name="Singleton" expanded="True">
+              <Node name="Database.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Singleton PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{3DE4633E-7D2D-4E41-8BF2-6F7EB6D3A4AA}|Default">
+  <MonoDevelop.Ide.ItemProperties.Adapter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Adapter/Shop.cs">
+    <Files>
+      <File FileName="Adapter/Program.cs" Line="13" Column="14" />
+      <File FileName="Adapter/Listable.cs" Line="6" Column="25" />
+      <File FileName="Adapter/Shop.cs" Line="7" Column="6" />
+      <File FileName="Adapter/ShopAdapter.cs" Line="15" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Adapter" expanded="True">
+            <Node name="Adapter" expanded="True">
+              <Node name="Shop.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

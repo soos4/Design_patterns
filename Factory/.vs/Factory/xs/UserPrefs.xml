@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{05CE9A0F-FFBA-4277-9648-C8323706422D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Factory/Program.cs">
+    <Files>
+      <File FileName="Factory/Program.cs" Line="10" Column="66" />
+      <File FileName="Factory/CreditCard.cs" Line="8" Column="34" />
+      <File FileName="Factory/MoneyBackCreditCard.cs" Line="12" Column="37" />
+      <File FileName="Factory/TitaniumCreditCard.cs" />
+      <File FileName="Factory/CardFactory.cs" Line="9" Column="1" />
+      <File FileName="Factory/MoneyBackFactory.cs" />
+      <File FileName="Factory/TitaniumFactory.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Factory" expanded="True">
+            <Node name="Factory" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Factory PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/soosrobert/Projects/Factory/Factory/bin/Debug/netcoreapp3.0/Factory
+/Users/soosrobert/Projects/Factory/Factory/bin/Debug/netcoreapp3.0/Factory.deps.json
+/Users/soosrobert/Projects/Factory/Factory/bin/Debug/netcoreapp3.0/Factory.runtimeconfig.json
+/Users/soosrobert/Projects/Factory/Factory/bin/Debug/netcoreapp3.0/Factory.runtimeconfig.dev.json
+/Users/soosrobert/Projects/Factory/Factory/bin/Debug/netcoreapp3.0/Factory.dll
+/Users/soosrobert/Projects/Factory/Factory/bin/Debug/netcoreapp3.0/Factory.pdb
+/Users/soosrobert/Projects/Factory/Factory/obj/Debug/netcoreapp3.0/Factory.csprojAssemblyReference.cache
+/Users/soosrobert/Projects/Factory/Factory/obj/Debug/netcoreapp3.0/Factory.AssemblyInfoInputs.cache
+/Users/soosrobert/Projects/Factory/Factory/obj/Debug/netcoreapp3.0/Factory.AssemblyInfo.cs
+/Users/soosrobert/Projects/Factory/Factory/obj/Debug/netcoreapp3.0/Factory.dll
+/Users/soosrobert/Projects/Factory/Factory/obj/Debug/netcoreapp3.0/Factory.pdb

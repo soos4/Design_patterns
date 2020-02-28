@@ -1,0 +1,11 @@
+/Users/soosrobert/Projects/Design_patterns/Composite/Composite/bin/Debug/netcoreapp3.0/Composite
+/Users/soosrobert/Projects/Design_patterns/Composite/Composite/bin/Debug/netcoreapp3.0/Composite.deps.json
+/Users/soosrobert/Projects/Design_patterns/Composite/Composite/bin/Debug/netcoreapp3.0/Composite.runtimeconfig.json
+/Users/soosrobert/Projects/Design_patterns/Composite/Composite/bin/Debug/netcoreapp3.0/Composite.runtimeconfig.dev.json
+/Users/soosrobert/Projects/Design_patterns/Composite/Composite/bin/Debug/netcoreapp3.0/Composite.dll
+/Users/soosrobert/Projects/Design_patterns/Composite/Composite/bin/Debug/netcoreapp3.0/Composite.pdb
+/Users/soosrobert/Projects/Design_patterns/Composite/Composite/obj/Debug/netcoreapp3.0/Composite.csprojAssemblyReference.cache
+/Users/soosrobert/Projects/Design_patterns/Composite/Composite/obj/Debug/netcoreapp3.0/Composite.AssemblyInfoInputs.cache
+/Users/soosrobert/Projects/Design_patterns/Composite/Composite/obj/Debug/netcoreapp3.0/Composite.AssemblyInfo.cs
+/Users/soosrobert/Projects/Design_patterns/Composite/Composite/obj/Debug/netcoreapp3.0/Composite.dll
+/Users/soosrobert/Projects/Design_patterns/Composite/Composite/obj/Debug/netcoreapp3.0/Composite.pdb

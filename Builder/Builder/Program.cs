@@ -23,7 +23,7 @@ namespace Builder
             builder.Vehicle.Show();
 
             Showable adapter = new TransportAdapter(builder.Vehicle);
-            adapter.Show();
+            //adapter.Show();
         }
     }
 }

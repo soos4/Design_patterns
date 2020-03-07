@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Composite
 {
-    public class GiftBox : Gift
+    public class GiftBox : Gift, GiftOperations
     {
         private List<Gift> gifts;
 

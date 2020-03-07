@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/soosrobert/Projects/Adapter/Adapter/Adapter.csproj": {}
+    "/Users/soosrobert/Projects/Design_patterns/Adapter/Adapter/Adapter.csproj": {}
   },
   "projects": {
-    "/Users/soosrobert/Projects/Adapter/Adapter/Adapter.csproj": {
+    "/Users/soosrobert/Projects/Design_patterns/Adapter/Adapter/Adapter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/soosrobert/Projects/Adapter/Adapter/Adapter.csproj",
+        "projectUniqueName": "/Users/soosrobert/Projects/Design_patterns/Adapter/Adapter/Adapter.csproj",
         "projectName": "Adapter",
-        "projectPath": "/Users/soosrobert/Projects/Adapter/Adapter/Adapter.csproj",
+        "projectPath": "/Users/soosrobert/Projects/Design_patterns/Adapter/Adapter/Adapter.csproj",
         "packagesPath": "/Users/soosrobert/.nuget/packages/",
-        "outputPath": "/Users/soosrobert/Projects/Adapter/Adapter/obj/",
+        "outputPath": "/Users/soosrobert/Projects/Design_patterns/Adapter/Adapter/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

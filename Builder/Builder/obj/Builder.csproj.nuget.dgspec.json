@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/soosrobert/Projects/Builder/Builder/Builder.csproj": {}
+    "/Users/soosrobert/Projects/Design_patterns/Builder/Builder/Builder.csproj": {}
   },
   "projects": {
-    "/Users/soosrobert/Projects/Builder/Builder/Builder.csproj": {
+    "/Users/soosrobert/Projects/Design_patterns/Builder/Builder/Builder.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/soosrobert/Projects/Builder/Builder/Builder.csproj",
+        "projectUniqueName": "/Users/soosrobert/Projects/Design_patterns/Builder/Builder/Builder.csproj",
         "projectName": "Builder",
-        "projectPath": "/Users/soosrobert/Projects/Builder/Builder/Builder.csproj",
+        "projectPath": "/Users/soosrobert/Projects/Design_patterns/Builder/Builder/Builder.csproj",
         "packagesPath": "/Users/soosrobert/.nuget/packages/",
-        "outputPath": "/Users/soosrobert/Projects/Builder/Builder/obj/",
+        "outputPath": "/Users/soosrobert/Projects/Design_patterns/Builder/Builder/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/soosrobert/Projects/Factory/Factory/Factory.csproj": {}
+    "/Users/soosrobert/Projects/Design_patterns/Factory/Factory/Factory.csproj": {}
   },
   "projects": {
-    "/Users/soosrobert/Projects/Factory/Factory/Factory.csproj": {
+    "/Users/soosrobert/Projects/Design_patterns/Factory/Factory/Factory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/soosrobert/Projects/Factory/Factory/Factory.csproj",
+        "projectUniqueName": "/Users/soosrobert/Projects/Design_patterns/Factory/Factory/Factory.csproj",
         "projectName": "Factory",
-        "projectPath": "/Users/soosrobert/Projects/Factory/Factory/Factory.csproj",
+        "projectPath": "/Users/soosrobert/Projects/Design_patterns/Factory/Factory/Factory.csproj",
         "packagesPath": "/Users/soosrobert/.nuget/packages/",
-        "outputPath": "/Users/soosrobert/Projects/Factory/Factory/obj/",
+        "outputPath": "/Users/soosrobert/Projects/Design_patterns/Factory/Factory/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

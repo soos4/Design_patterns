@@ -4,10 +4,10 @@
       <File FileName="Factory/Program.cs" Line="10" Column="66" />
       <File FileName="Factory/CreditCard.cs" Line="8" Column="34" />
       <File FileName="Factory/MoneyBackCreditCard.cs" Line="12" Column="37" />
-      <File FileName="Factory/TitaniumCreditCard.cs" />
+      <File FileName="Factory/TitaniumCreditCard.cs" Line="1" Column="1" />
       <File FileName="Factory/CardFactory.cs" Line="9" Column="1" />
-      <File FileName="Factory/MoneyBackFactory.cs" />
-      <File FileName="Factory/TitaniumFactory.cs" />
+      <File FileName="Factory/MoneyBackFactory.cs" Line="1" Column="1" />
+      <File FileName="Factory/TitaniumFactory.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

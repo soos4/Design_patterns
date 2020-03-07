@@ -25,6 +25,13 @@ namespace Composite
 
             rootBox.Add(childBox);
 
+            GiftBox newToyBox = new GiftBox("New toy box", 0);
+
+            Gift carToy = new SingleGift("CarToy", 300);
+            newToyBox.Add(carToy);
+
+            childBox.Add(newToyBox);
+
             Console.WriteLine("Total price of this composite present is: " + rootBox.CalculateTotalPrice());
         }
     }

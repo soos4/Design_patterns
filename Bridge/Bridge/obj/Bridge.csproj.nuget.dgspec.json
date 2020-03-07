@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/soosrobert/Projects/Bridge/Bridge/Bridge.csproj": {}
+    "/Users/soosrobert/Projects/Design_patterns/Bridge/Bridge/Bridge.csproj": {}
   },
   "projects": {
-    "/Users/soosrobert/Projects/Bridge/Bridge/Bridge.csproj": {
+    "/Users/soosrobert/Projects/Design_patterns/Bridge/Bridge/Bridge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/soosrobert/Projects/Bridge/Bridge/Bridge.csproj",
+        "projectUniqueName": "/Users/soosrobert/Projects/Design_patterns/Bridge/Bridge/Bridge.csproj",
         "projectName": "Bridge",
-        "projectPath": "/Users/soosrobert/Projects/Bridge/Bridge/Bridge.csproj",
+        "projectPath": "/Users/soosrobert/Projects/Design_patterns/Bridge/Bridge/Bridge.csproj",
         "packagesPath": "/Users/soosrobert/.nuget/packages/",
-        "outputPath": "/Users/soosrobert/Projects/Bridge/Bridge/obj/",
+        "outputPath": "/Users/soosrobert/Projects/Design_patterns/Bridge/Bridge/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

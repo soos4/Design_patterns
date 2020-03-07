@@ -1,12 +1,12 @@
 ﻿<Properties StartupConfiguration="{83F52A97-960F-4CA7-9EA1-A11F432A588A}|Default">
   <MonoDevelop.Ide.ItemProperties.Bridge PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Bridge/GUI.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Bridge/Program.cs">
     <Files>
-      <File FileName="Bridge/Program.cs" Line="14" Column="47" />
+      <File FileName="Bridge/Program.cs" Line="17" Column="52" />
       <File FileName="Bridge/GUI.cs" Line="15" Column="2" />
       <File FileName="Bridge/OS.cs" Line="6" Column="44" />
-      <File FileName="Bridge/SimpleGUI.cs" Line="9" Column="13" />
-      <File FileName="Bridge/ProgrammerGUI.cs" Line="6" Column="36" />
+      <File FileName="Bridge/SimpleGUI.cs" Line="2" Column="17" />
+      <File FileName="Bridge/ProgrammerGUI.cs" Line="9" Column="26" />
       <File FileName="Bridge/WindowsOS.cs" Line="8" Column="33" />
       <File FileName="Bridge/LinuxOS.cs" Line="8" Column="31" />
       <File FileName="Bridge/MobileOS.cs" Line="8" Column="32" />
@@ -16,7 +16,7 @@
         <State name="__root__">
           <Node name="Bridge" expanded="True">
             <Node name="Bridge" expanded="True">
-              <Node name="GUI.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

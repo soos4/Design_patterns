@@ -10,8 +10,11 @@ namespace Bridge
 
             GUI gui2 = new ProgrammerGUI(new LinuxOS());
 
+            GUI gui3 = new SimpleGUI(new MobileOS());
+
             Console.WriteLine(gui1.GetInfo());
             Console.WriteLine(gui2.GetInfo());
+            System.Console.WriteLine(gui3.GetInfo());
         }
     }
 }

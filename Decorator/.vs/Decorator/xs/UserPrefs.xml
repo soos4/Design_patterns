@@ -1,19 +1,19 @@
 ﻿<Properties StartupConfiguration="{FF3BA2BC-290F-41D2-BECB-929CE41EC207}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Decorator/Video.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Decorator/Program.cs">
     <Files>
-      <File FileName="Decorator/Program.cs" Line="24" Column="28" />
+      <File FileName="Decorator/Book.cs" Line="17" Column="10" />
+      <File FileName="Decorator/Program.cs" Line="27" Column="35" />
       <File FileName="Decorator/Borrowable.cs" Line="17" Column="37" />
-      <File FileName="Decorator/Decorator.cs" Line="12" Column="22" />
-      <File FileName="Decorator/LibraryItem.cs" Line="7" Column="1" />
-      <File FileName="Decorator/Book.cs" Line="20" Column="46" />
-      <File FileName="Decorator/Video.cs" Line="22" Column="53" />
+      <File FileName="Decorator/Decorator.cs" Line="1" Column="1" />
+      <File FileName="Decorator/LibraryItem.cs" Line="16" Column="2" />
+      <File FileName="Decorator/Video.cs" Line="8" Column="30" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Decorator" expanded="True">
             <Node name="Decorator" expanded="True">
-              <Node name="Video.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
         </State>

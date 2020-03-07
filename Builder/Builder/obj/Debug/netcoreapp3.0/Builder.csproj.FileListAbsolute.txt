@@ -9,3 +9,14 @@
 /Users/soosrobert/Projects/Builder/Builder/obj/Debug/netcoreapp3.0/Builder.AssemblyInfo.cs
 /Users/soosrobert/Projects/Builder/Builder/obj/Debug/netcoreapp3.0/Builder.dll
 /Users/soosrobert/Projects/Builder/Builder/obj/Debug/netcoreapp3.0/Builder.pdb
+/Users/soosrobert/Projects/Design_patterns/Builder/Builder/bin/Debug/netcoreapp3.0/Builder
+/Users/soosrobert/Projects/Design_patterns/Builder/Builder/bin/Debug/netcoreapp3.0/Builder.deps.json
+/Users/soosrobert/Projects/Design_patterns/Builder/Builder/bin/Debug/netcoreapp3.0/Builder.runtimeconfig.json
+/Users/soosrobert/Projects/Design_patterns/Builder/Builder/bin/Debug/netcoreapp3.0/Builder.runtimeconfig.dev.json
+/Users/soosrobert/Projects/Design_patterns/Builder/Builder/bin/Debug/netcoreapp3.0/Builder.dll
+/Users/soosrobert/Projects/Design_patterns/Builder/Builder/bin/Debug/netcoreapp3.0/Builder.pdb
+/Users/soosrobert/Projects/Design_patterns/Builder/Builder/obj/Debug/netcoreapp3.0/Builder.csprojAssemblyReference.cache
+/Users/soosrobert/Projects/Design_patterns/Builder/Builder/obj/Debug/netcoreapp3.0/Builder.AssemblyInfoInputs.cache
+/Users/soosrobert/Projects/Design_patterns/Builder/Builder/obj/Debug/netcoreapp3.0/Builder.AssemblyInfo.cs
+/Users/soosrobert/Projects/Design_patterns/Builder/Builder/obj/Debug/netcoreapp3.0/Builder.dll
+/Users/soosrobert/Projects/Design_patterns/Builder/Builder/obj/Debug/netcoreapp3.0/Builder.pdb

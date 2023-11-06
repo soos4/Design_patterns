@@ -20,3 +20,17 @@
 /Users/soosrobert/Projects/Design_patterns/Builder/Builder/obj/Debug/netcoreapp3.0/Builder.AssemblyInfo.cs
 /Users/soosrobert/Projects/Design_patterns/Builder/Builder/obj/Debug/netcoreapp3.0/Builder.dll
 /Users/soosrobert/Projects/Design_patterns/Builder/Builder/obj/Debug/netcoreapp3.0/Builder.pdb
+C:\Projects\Design_patterns\Builder\Builder\bin\Debug\netcoreapp3.0\Builder.exe
+C:\Projects\Design_patterns\Builder\Builder\bin\Debug\netcoreapp3.0\Builder.deps.json
+C:\Projects\Design_patterns\Builder\Builder\bin\Debug\netcoreapp3.0\Builder.runtimeconfig.json
+C:\Projects\Design_patterns\Builder\Builder\bin\Debug\netcoreapp3.0\Builder.runtimeconfig.dev.json
+C:\Projects\Design_patterns\Builder\Builder\bin\Debug\netcoreapp3.0\Builder.dll
+C:\Projects\Design_patterns\Builder\Builder\bin\Debug\netcoreapp3.0\Builder.pdb
+C:\Projects\Design_patterns\Builder\Builder\obj\Debug\netcoreapp3.0\Builder.csproj.AssemblyReference.cache
+C:\Projects\Design_patterns\Builder\Builder\obj\Debug\netcoreapp3.0\Builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Design_patterns\Builder\Builder\obj\Debug\netcoreapp3.0\Builder.AssemblyInfoInputs.cache
+C:\Projects\Design_patterns\Builder\Builder\obj\Debug\netcoreapp3.0\Builder.AssemblyInfo.cs
+C:\Projects\Design_patterns\Builder\Builder\obj\Debug\netcoreapp3.0\Builder.csproj.CoreCompileInputs.cache
+C:\Projects\Design_patterns\Builder\Builder\obj\Debug\netcoreapp3.0\Builder.dll
+C:\Projects\Design_patterns\Builder\Builder\obj\Debug\netcoreapp3.0\Builder.pdb
+C:\Projects\Design_patterns\Builder\Builder\obj\Debug\netcoreapp3.0\Builder.genruntimeconfig.cache

@@ -20,3 +20,17 @@
 /Users/soosrobert/Projects/Design_patterns/Factory/Factory/obj/Debug/netcoreapp3.0/Factory.AssemblyInfo.cs
 /Users/soosrobert/Projects/Design_patterns/Factory/Factory/obj/Debug/netcoreapp3.0/Factory.dll
 /Users/soosrobert/Projects/Design_patterns/Factory/Factory/obj/Debug/netcoreapp3.0/Factory.pdb
+C:\Projects\Design_patterns\Factory\Factory\bin\Debug\netcoreapp3.0\Factory.exe
+C:\Projects\Design_patterns\Factory\Factory\bin\Debug\netcoreapp3.0\Factory.deps.json
+C:\Projects\Design_patterns\Factory\Factory\bin\Debug\netcoreapp3.0\Factory.runtimeconfig.json
+C:\Projects\Design_patterns\Factory\Factory\bin\Debug\netcoreapp3.0\Factory.runtimeconfig.dev.json
+C:\Projects\Design_patterns\Factory\Factory\bin\Debug\netcoreapp3.0\Factory.dll
+C:\Projects\Design_patterns\Factory\Factory\bin\Debug\netcoreapp3.0\Factory.pdb
+C:\Projects\Design_patterns\Factory\Factory\obj\Debug\netcoreapp3.0\Factory.csproj.AssemblyReference.cache
+C:\Projects\Design_patterns\Factory\Factory\obj\Debug\netcoreapp3.0\Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Design_patterns\Factory\Factory\obj\Debug\netcoreapp3.0\Factory.AssemblyInfoInputs.cache
+C:\Projects\Design_patterns\Factory\Factory\obj\Debug\netcoreapp3.0\Factory.AssemblyInfo.cs
+C:\Projects\Design_patterns\Factory\Factory\obj\Debug\netcoreapp3.0\Factory.csproj.CoreCompileInputs.cache
+C:\Projects\Design_patterns\Factory\Factory\obj\Debug\netcoreapp3.0\Factory.dll
+C:\Projects\Design_patterns\Factory\Factory\obj\Debug\netcoreapp3.0\Factory.pdb
+C:\Projects\Design_patterns\Factory\Factory\obj\Debug\netcoreapp3.0\Factory.genruntimeconfig.cache

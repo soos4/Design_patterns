@@ -1,4 +1,5 @@
 ﻿using System;
+
 namespace Builder
 {
     public class MotorCycleBuilder : VehicleBuilder
@@ -8,14 +9,18 @@ namespace Builder
             vehicle = new Vehicle("MotorCycle");
         }
 
-        public override void BuildFrame()
+        public override VehicleBuilder BuildFrame()
         {
             vehicle["frame"] = "MotorCycle Frame";
+
+            return this;
         }
 
-        public override void BuildEngine()
+        public override VehicleBuilder BuildEngine()
         {
             vehicle["engine"] = "500 cc";
+
+            return this;
         }
 
         public override void BuildWheels()

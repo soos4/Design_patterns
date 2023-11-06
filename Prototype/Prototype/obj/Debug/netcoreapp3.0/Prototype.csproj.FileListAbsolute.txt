@@ -20,3 +20,17 @@
 /Users/soosrobert/Projects/Design_patterns/Prototype/Prototype/obj/Debug/netcoreapp3.0/Prototype.AssemblyInfo.cs
 /Users/soosrobert/Projects/Design_patterns/Prototype/Prototype/obj/Debug/netcoreapp3.0/Prototype.dll
 /Users/soosrobert/Projects/Design_patterns/Prototype/Prototype/obj/Debug/netcoreapp3.0/Prototype.pdb
+C:\Projects\Design_patterns\Prototype\Prototype\bin\Debug\netcoreapp3.0\Prototype.exe
+C:\Projects\Design_patterns\Prototype\Prototype\bin\Debug\netcoreapp3.0\Prototype.deps.json
+C:\Projects\Design_patterns\Prototype\Prototype\bin\Debug\netcoreapp3.0\Prototype.runtimeconfig.json
+C:\Projects\Design_patterns\Prototype\Prototype\bin\Debug\netcoreapp3.0\Prototype.runtimeconfig.dev.json
+C:\Projects\Design_patterns\Prototype\Prototype\bin\Debug\netcoreapp3.0\Prototype.dll
+C:\Projects\Design_patterns\Prototype\Prototype\bin\Debug\netcoreapp3.0\Prototype.pdb
+C:\Projects\Design_patterns\Prototype\Prototype\obj\Debug\netcoreapp3.0\Prototype.csproj.AssemblyReference.cache
+C:\Projects\Design_patterns\Prototype\Prototype\obj\Debug\netcoreapp3.0\Prototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Design_patterns\Prototype\Prototype\obj\Debug\netcoreapp3.0\Prototype.AssemblyInfoInputs.cache
+C:\Projects\Design_patterns\Prototype\Prototype\obj\Debug\netcoreapp3.0\Prototype.AssemblyInfo.cs
+C:\Projects\Design_patterns\Prototype\Prototype\obj\Debug\netcoreapp3.0\Prototype.csproj.CoreCompileInputs.cache
+C:\Projects\Design_patterns\Prototype\Prototype\obj\Debug\netcoreapp3.0\Prototype.dll
+C:\Projects\Design_patterns\Prototype\Prototype\obj\Debug\netcoreapp3.0\Prototype.pdb
+C:\Projects\Design_patterns\Prototype\Prototype\obj\Debug\netcoreapp3.0\Prototype.genruntimeconfig.cache

@@ -22,6 +22,8 @@ namespace Singleton
             {
                 Console.WriteLine(number);
             }
+
+            Console.WriteLine(db1 == db2);
         }
     }
 }

@@ -27,7 +27,6 @@ namespace Iterator
             if (!IsDone)
                 return collection[current] as Item;
             else
-
                 return null;
         }
 

@@ -1,4 +1,5 @@
 ﻿using System;
+
 namespace Command
 {
     public class IntensitySetting : Command

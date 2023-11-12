@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Strategy
 {
-    internal class Program
+    public class Program
     {
         public static void Main(string[] args)
         {

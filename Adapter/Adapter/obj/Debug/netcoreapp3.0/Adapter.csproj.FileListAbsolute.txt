@@ -20,3 +20,17 @@
 /Users/soosrobert/Projects/Design_patterns/Adapter/Adapter/obj/Debug/netcoreapp3.0/Adapter.AssemblyInfo.cs
 /Users/soosrobert/Projects/Design_patterns/Adapter/Adapter/obj/Debug/netcoreapp3.0/Adapter.dll
 /Users/soosrobert/Projects/Design_patterns/Adapter/Adapter/obj/Debug/netcoreapp3.0/Adapter.pdb
+C:\Projects\Design_patterns\Adapter\Adapter\obj\Debug\netcoreapp3.0\Adapter.dll
+C:\Projects\Design_patterns\Adapter\Adapter\obj\Debug\netcoreapp3.0\Adapter.pdb
+C:\Projects\Design_patterns\Adapter\Adapter\obj\Debug\netcoreapp3.0\Adapter.csproj.AssemblyReference.cache
+C:\Projects\Design_patterns\Adapter\Adapter\obj\Debug\netcoreapp3.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Design_patterns\Adapter\Adapter\obj\Debug\netcoreapp3.0\Adapter.AssemblyInfoInputs.cache
+C:\Projects\Design_patterns\Adapter\Adapter\obj\Debug\netcoreapp3.0\Adapter.AssemblyInfo.cs
+C:\Projects\Design_patterns\Adapter\Adapter\obj\Debug\netcoreapp3.0\Adapter.csproj.CoreCompileInputs.cache
+C:\Projects\Design_patterns\Adapter\Adapter\bin\Debug\netcoreapp3.0\Adapter.exe
+C:\Projects\Design_patterns\Adapter\Adapter\bin\Debug\netcoreapp3.0\Adapter.deps.json
+C:\Projects\Design_patterns\Adapter\Adapter\bin\Debug\netcoreapp3.0\Adapter.runtimeconfig.json
+C:\Projects\Design_patterns\Adapter\Adapter\bin\Debug\netcoreapp3.0\Adapter.runtimeconfig.dev.json
+C:\Projects\Design_patterns\Adapter\Adapter\bin\Debug\netcoreapp3.0\Adapter.dll
+C:\Projects\Design_patterns\Adapter\Adapter\bin\Debug\netcoreapp3.0\Adapter.pdb
+C:\Projects\Design_patterns\Adapter\Adapter\obj\Debug\netcoreapp3.0\Adapter.genruntimeconfig.cache

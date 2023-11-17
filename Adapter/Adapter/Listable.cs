@@ -5,6 +5,6 @@ namespace Adapter
 {
     public interface Listable
     {
-        List<string> GetProducts();
+        string[] GetProducts();
     }
 }

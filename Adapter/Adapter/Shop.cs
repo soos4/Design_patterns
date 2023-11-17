@@ -7,12 +7,13 @@ namespace Adapter
     {
         public List<string> GetListOfProducts()
         {
-            List<string> products = new List<string>();
-
-            products.Add("Gaming Consoles");
-            products.Add("Television");
-            products.Add("Books");
-            products.Add("Musical Instruments");
+            List<string> products = new List<String>
+            {
+                "Gaming Consoles",
+                "Television",
+                "Books",
+                "Musical Instruments"
+            };
 
             return products;
         }

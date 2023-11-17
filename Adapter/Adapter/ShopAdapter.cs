@@ -12,9 +12,9 @@ namespace Adapter
             adaptedShop = new Shop();
         }
 
-        public List<string> GetProducts()
+        public string[] GetProducts()
         {
-            return adaptedShop.GetListOfProducts();
+            return adaptedShop.GetListOfProducts().ToArray();
         }
     }
 }

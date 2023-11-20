@@ -20,3 +20,17 @@
 /Users/soosrobert/Projects/Design_patterns/Bridge/Bridge/obj/Debug/netcoreapp3.0/Bridge.AssemblyInfo.cs
 /Users/soosrobert/Projects/Design_patterns/Bridge/Bridge/obj/Debug/netcoreapp3.0/Bridge.dll
 /Users/soosrobert/Projects/Design_patterns/Bridge/Bridge/obj/Debug/netcoreapp3.0/Bridge.pdb
+C:\Projects\Design_patterns\Bridge\Bridge\bin\Debug\netcoreapp3.0\Bridge.exe
+C:\Projects\Design_patterns\Bridge\Bridge\bin\Debug\netcoreapp3.0\Bridge.deps.json
+C:\Projects\Design_patterns\Bridge\Bridge\bin\Debug\netcoreapp3.0\Bridge.runtimeconfig.json
+C:\Projects\Design_patterns\Bridge\Bridge\bin\Debug\netcoreapp3.0\Bridge.runtimeconfig.dev.json
+C:\Projects\Design_patterns\Bridge\Bridge\bin\Debug\netcoreapp3.0\Bridge.dll
+C:\Projects\Design_patterns\Bridge\Bridge\bin\Debug\netcoreapp3.0\Bridge.pdb
+C:\Projects\Design_patterns\Bridge\Bridge\obj\Debug\netcoreapp3.0\Bridge.csproj.AssemblyReference.cache
+C:\Projects\Design_patterns\Bridge\Bridge\obj\Debug\netcoreapp3.0\Bridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Design_patterns\Bridge\Bridge\obj\Debug\netcoreapp3.0\Bridge.AssemblyInfoInputs.cache
+C:\Projects\Design_patterns\Bridge\Bridge\obj\Debug\netcoreapp3.0\Bridge.AssemblyInfo.cs
+C:\Projects\Design_patterns\Bridge\Bridge\obj\Debug\netcoreapp3.0\Bridge.csproj.CoreCompileInputs.cache
+C:\Projects\Design_patterns\Bridge\Bridge\obj\Debug\netcoreapp3.0\Bridge.dll
+C:\Projects\Design_patterns\Bridge\Bridge\obj\Debug\netcoreapp3.0\Bridge.pdb
+C:\Projects\Design_patterns\Bridge\Bridge\obj\Debug\netcoreapp3.0\Bridge.genruntimeconfig.cache

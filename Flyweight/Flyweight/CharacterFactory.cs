@@ -17,7 +17,6 @@ namespace Flyweight
                 character = characters[key];
             }
             else
-
             {
                 switch (key)
                 {
@@ -31,8 +30,10 @@ namespace Flyweight
                         character = new CharacterZ();
                         break;
                 }
+
                 characters.Add(key, character);
             }
+
             return character;
         }
     }

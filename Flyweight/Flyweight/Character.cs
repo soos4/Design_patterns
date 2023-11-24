@@ -1,4 +1,5 @@
 ﻿using System;
+
 namespace Flyweight
 {
     public abstract class Character

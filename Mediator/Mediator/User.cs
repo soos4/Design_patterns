@@ -1,4 +1,5 @@
 ﻿using System;
+
 namespace Mediator
 {
     public class User : AbstractUser
@@ -9,14 +10,13 @@ namespace Mediator
 
         public override void Receive(string message)
         {
-            Console.WriteLine(this.name + ": Received Message:" + message);
+            Console.WriteLine(this.name + ": Received Message: " + message);
         }
 
         public override void Send(string message)
         {
-            Console.WriteLine(this.name + ": Sending Message=" + message + "\n");
+            Console.WriteLine(this.name + ": Sending Message= " + message + "\n");
             mediator.SendMessage(message, this);
         }
-
     }
 }

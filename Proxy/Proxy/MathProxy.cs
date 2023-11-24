@@ -1,4 +1,5 @@
 ﻿using System;
+
 namespace Proxy
 {
     public class MathProxy : Math
@@ -16,18 +17,21 @@ namespace Proxy
             Console.WriteLine("This is the " + addCounter + ". time calling add");
             return _math.Add(x, y);
         }
+
         public double Sub(double x, double y)
         {
             subCounter++;
             Console.WriteLine("This is the " + subCounter + ". time calling sub");
             return _math.Sub(x, y);
         }
+
         public double Mul(double x, double y)
         {
             mulCounter++;
             Console.WriteLine("This is the " + mulCounter + ". time calling mul");
             return _math.Mul(x, y);
         }
+
         public double Div(double x, double y)
         {
             divCounter++;

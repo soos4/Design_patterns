@@ -24,6 +24,11 @@ namespace Flyweight
             {
                 character.Display(15);
             }
+
+            foreach (Character character in characters)
+            {
+                character.Display(8);
+            }
         }
     }
 }

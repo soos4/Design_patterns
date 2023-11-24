@@ -1,4 +1,5 @@
 ﻿using System;
+
 namespace State
 {
     public class RedState : State
@@ -32,14 +33,12 @@ namespace State
 
         public override void Withdraw(double amount)
         {
-            amount = amount - serviceFee;
             Console.WriteLine("No funds available for withdrawal!");
         }
 
         public override void PayInterest()
         {
             // No interest is paid
-
         }
 
         private void StateChangeCheck()

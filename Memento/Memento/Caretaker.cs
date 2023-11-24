@@ -16,7 +16,7 @@ namespace Memento
 
         public void Backup()
         {
-            Console.WriteLine("\nCaretaker: Saving Originator's state...");
+            Console.WriteLine("Caretaker: Saving Originator's state...");
             this.mementos.Add(this.originator.Save());
         }
 

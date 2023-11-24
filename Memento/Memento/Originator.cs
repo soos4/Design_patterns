@@ -56,8 +56,8 @@ namespace Memento
                 throw new Exception("Unknown memento class " + memento.ToString());
             }
 
-            this.state = ((DefaultMemento) memento).GetState();
-            Console.Write("Originator: My state has changed to: " + this.state);
+            this.state = ((DefaultMemento)memento).GetState();
+            Console.WriteLine("Originator: My state has changed to: " + this.state);
         }
     }
 }

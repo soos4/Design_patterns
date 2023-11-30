@@ -1,4 +1,5 @@
 ﻿using System;
+
 namespace State
 {
     public class SilverState : State
@@ -20,7 +21,7 @@ namespace State
         {
             // Should come from a datasource
 
-            interest = 0.0;
+            interest = 0.01;
             lowerLimit = 0.0;
             upperLimit = 1000.0;
         }

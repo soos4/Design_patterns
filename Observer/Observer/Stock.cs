@@ -7,7 +7,7 @@ namespace Observer
     {
         private string symbol;
         private double price;
-        private List<Subscriber> subscricers = new List<Subscriber>();
+        private List<Subscriber> subscribers = new List<Subscriber>();
 
         public Stock(string symbol, double price)
         {
@@ -15,21 +15,21 @@ namespace Observer
             this.price = price;
         }
 
-        public void Attach(Subscriber subscricer)
+        public void Attach(Subscriber subscriber)
         {
-            subscricers.Add(subscricer);
+            subscribers.Add(subscriber);
         }
 
-        public void Detach(Subscriber subscricer)
+        public void Detach(Subscriber subscriber)
         {
-            subscricers.Remove(subscricer);
+            subscribers.Remove(subscriber);
         }
 
         public void Notify()
         {
-            foreach (Subscriber subscricer in subscricers)
+            foreach (Subscriber subscriber in subscribers)
             {
-                subscricer.Update(this);
+                subscriber.Update(this);
             }
 
             Console.WriteLine("");
